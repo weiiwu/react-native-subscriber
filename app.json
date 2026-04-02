@@ -38,7 +38,15 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      ["expo-font",{"fonts":[
+        "./assets/fonts/PlusJakaraSans-Regular.ttf",
+        "./assets/fonts/PlusJakaraSans-Bold.ttf",
+        "./assets/fonts/PlusJakaraSans-Medium.ttf",
+        "./assets/fonts/PlusJakaraSans-SemiBold.ttf",
+        "./assets/fonts/PlusJakaraSans-Light.ttf",
+        "./assets/fonts/PlusJakaraSans-ExtraBold.ttf"
+      ]}]
     ],
     "experiments": {
       "typedRoutes": true,
